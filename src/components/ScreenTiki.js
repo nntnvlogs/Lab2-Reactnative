@@ -195,6 +195,7 @@ const styles = StyleSheet.create({
     width: "100%",
     backgroundColor: "#fff",
     alignItems: "center",
+    justifyContent: "flex-start",
   },
   header: {
     flexDirection: "row",
